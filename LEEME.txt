@@ -1,0 +1,13 @@
+MUESTRA PEDAGÓGICA 2026 — INSTITUTO PRIVADO RIVADAVIA
+
+Para usar la página:
+1. Extraé todos los archivos del ZIP en una misma carpeta.
+2. Abrí index.html con Chrome, Edge o Firefox.
+3. Tocá un grado o Jardín A–E en el croquis para ver el proyecto y su reseña.
+
+Incluye seis proyectos de Primaria y cinco de Inicial, filtros, buscador y ventanas con navegación entre proyectos.
+Las ubicaciones de los grados corresponden al croquis del Word. Inicial se divide en cinco secciones dentro del sector indicado; el Word no detalla su orden físico interno.
+
+El contenido y las imágenes funcionan localmente. Las tipografías de Google Fonts se cargan con conexión; sin conexión se usan fuentes del dispositivo.
+
+Para alojarla en un servidor web, subí index.html, styles.css, app.js y la carpeta assets conservando esta estructura.
